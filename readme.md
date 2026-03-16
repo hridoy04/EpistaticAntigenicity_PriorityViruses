@@ -1,4 +1,4 @@
-# antievo
+# Epistatic antigenicity
 
 > Predict epistasis‑aware antigenicity from a single protein sequence and map it onto 3D structure.
 
